@@ -73,7 +73,7 @@ Aspiring Data Analyst | Power BI • Excel • Data Visualization
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailtoaprajapati2074@gmail.com">
+<a href="aprajapati2074@gmail.com">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
 </a>
 &nbsp;&nbsp;
