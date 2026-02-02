@@ -6,10 +6,29 @@ Aspiring Data Analyst | Power BI • Excel • Data Visualization
 
 ## 👨‍💻 About Me
 
-📊 I am an aspiring Data Analyst with a strong interest in turning raw data into meaningful insights.  
-📈 I enjoy working on real-world datasets, performing data cleaning, analysis, and building interactive dashboards.  
-🧠 Currently focusing on improving my skills in Power BI, Excel, and data storytelling.  
-🎯 My goal is to become a job-ready Data Analyst and work on impactful data-driven projects.
+<table>
+<tr>
+<td width="65%">
+
+🌟 I am an aspiring Data Analyst with a strong interest in learning and applying data analytics.  
+
+🎓 Background in analytical thinking and problem-solving.  
+
+📊 I enjoy working on real-world datasets, performing data cleaning, analysis, and building interactive dashboards.  
+
+🧠 Currently improving my skills in **Power BI, Excel, SQL**, and data storytelling.  
+
+🎯 My goal is to become a **job-ready Data Analyst** and work on impactful, data-driven projects.
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
