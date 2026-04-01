@@ -80,6 +80,11 @@ Aspiring Data Analyst | Power BI • Excel • Data Visualization
 <a href="https://www.linkedin.com/in/anandprajapati13/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;
+
+<a href="https://anand-prajapati-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
+</a>
 
 ---
 
