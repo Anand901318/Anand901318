@@ -83,7 +83,8 @@ Aspiring Data Analyst | Power BI • Excel • Data Visualization
 &nbsp;&nbsp;
 
 <a href="https://anand-prajapati-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Ew0BVt-01YUtdq_NvN-6YpD_gY3HQvNf" 
+       width="40" height="40" alt="Portfolio"/>
 </a>
 
 ---
